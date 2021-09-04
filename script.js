@@ -72,6 +72,10 @@ function showWeatherReport(weather){
         document.body.style.backgroundImage = "url('thunder.jpg')";
         
     } 
+    else if(weatherType.textContent == 'mist') {
+    
+        document.body.style.backgroundImage = "url('12.jpg')";
+        
 }
 
 // Date manage
