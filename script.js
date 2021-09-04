@@ -93,4 +93,4 @@ function dateManage(dateArg) {
     return `${date} ${month} (${day}), ${year}`;
 }
 
-
+}
